@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+@import "bourbon/bourbon";
+@import "reset";
+@import "setting";
+@import "animate";
+@import "header";
+@import 'intro';
+@import 'about';
+@import 'works';
+@import 'space';
+@import 'contact';
+@import 'article';
+@import 'post-detail';
+@import 'socials';
+@import 'mail';
+@import 'res';
